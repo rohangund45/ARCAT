@@ -1,0 +1,19 @@
+[
+  {
+    "id": "a1",
+    "location": "Nashik",
+    "message": "Heavy rainfall expected in Nashik within 12 hours",
+    "type": "Rain",
+    "timestamp": "2025-11-06T03:00:00Z",
+    "read": false
+  },
+  {
+    "id": "a2",
+    "location": "Pune",
+    "message": "Heat wave likely tomorrow afternoon",
+    "type": "Heat",
+    "timestamp": "2025-11-05T10:30:00Z",
+    "read": true
+  }
+]
+

@@ -1,0 +1,12 @@
+{
+  "location": "Nashik",
+  "predictions": [
+    { "timestamp": "2025-11-06T00:00:00Z", "rainfallMm": 10, "temperatureC": 28 },
+    { "timestamp": "2025-11-06T06:00:00Z", "rainfallMm": 25, "temperatureC": 26 },
+    { "timestamp": "2025-11-06T12:00:00Z", "rainfallMm": 40, "temperatureC": 24 },
+    { "timestamp": "2025-11-06T18:00:00Z", "rainfallMm": 18, "temperatureC": 23 },
+    { "timestamp": "2025-11-07T00:00:00Z", "rainfallMm": 5, "temperatureC": 22 }
+  ],
+  "aiSummary": "High rainfall expected, cover your crops to prevent soil erosion."
+}
+
