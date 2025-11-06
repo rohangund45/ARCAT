@@ -1,1 +1,1 @@
-ARCAT - AI Powered Rural Climate Alert Toolkit
+# ARCAT - AI Powered Rural Climate Alert Toolkit
